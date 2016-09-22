@@ -74,10 +74,6 @@ http://androidwebseo.com
 
 ## Contributing
 
-Contributions are highly appreciated! Send your pull requests to `master` branch.
+Contributions are [Polas.habib](https://github.com/polashrp)
 
-
-### License
-
-0ez is open-sourced software licensed under the [Polas.habib](https://github.com/polashrp)
 
