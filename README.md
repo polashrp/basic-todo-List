@@ -72,7 +72,7 @@ http://androidwebseo.com
 
 
 
-## Contributing
+## Contributor
 
 Contributions are [Polas.habib](https://github.com/polashrp)
 
