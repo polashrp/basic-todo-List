@@ -8,8 +8,12 @@ Currently, todo list is under development. There are no Installer. You have to u
 
 **2.** In the root directory, type:
 
-``` bash
+``` bash command line
 composer install
+
+php artisan migrate
+
+php artisan serve
 ```
 
 **3.** Then, you have to set up your DB.
@@ -52,11 +56,7 @@ Database password
     DB_PASSWORD=Server Pass
 ```
 
-**6.** In command line, type 
 
-``` bash
-php artisan migrate
-```
 
 
 **7.** Point your webserver (Apache ot NGINX) to `/public` folder.
